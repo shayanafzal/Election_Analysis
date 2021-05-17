@@ -12,17 +12,17 @@ For loop and conditional statement would need to be used to compile the aforemen
 
 The Python code uses repetition statements, conditional statements and logical operators to print the election results to a command line and also saves them into a text file. 
 Please see below for five election outcomes
-1. Total Votes: 369,711
-2. County Votes:
+1. Total Votes in this congressional election: 369,711
+2. A breakdown of the number of votes and the percentage of total votes for each county in the precinct:
    * Jefferson: 10.5% (38,855)
    * Denver: 82.8% (306,055)
    * Arapahoe: 6.7% (24,801)
-3. Largest County Turnover: Denver
-4. 
+3. County that had the largest number of votes: Denver
+4. Breakdown of the number of votes and the percentage of the total votes each candidate received
    * Charles Casper Stockham: 23.0% (85,213)
    * Diana DeGette: 73.8% (272,892)
    * Raymon Anthony Doane: 3.1% (11,606)
-5. Winner
+5. Winning Candidate, their vote count, their percentage of total votes
    * Winner: Diana DeGette
    * Winning Vote Count: 272,892
    * Winning Percentage: 73.8%
