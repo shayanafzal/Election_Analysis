@@ -28,12 +28,15 @@ Please see below for five election outcomes
    * Winning Percentage: 73.8%
 
 Please see below snippet from the command line showing the result. 
+![results in anaconda}(https://github.com/shayanafzal/Election_Analysis/blob/98bf54a7713e799857dafdd69fbdabae89007148/Resources/Results%20Displayed%20in%20Anaconda%20Prompt.png)
 
 Please see below snippet from the text file showing the result. The text file can also be accessed here.
 
 ## Election-Audit Summary
 ### How to use this Script
 This script relies on data obtained from csv file. The advantage of using a csv file is that the same script can be used on a different election data file that is formatted in the same manner. 
+
+
 
 ### Below are a few examples of how to use this Python Script
 1.	The current CSV file uses ballot ID, County and Candidate information. This can be expanded to include additional data. For example the voters age, gender and political affiliation data can be collected. The Python script can then be further modified to determine the voter spread across age, gender and political party affiliation under each county.
