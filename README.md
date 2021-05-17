@@ -1,11 +1,15 @@
 # Election_Analysis
 
-Overview of Election Audit
-Purpose
+##Overview of Election Audit
+
+###Purpose
+
 The purpose of this is to determine the voter turnout for each county, the percentage of votes received by each county and the country with the highest voter turnout. 
+
 For loop and conditional statement would need to be used to compile the aforementioned requested results. The result would then be printed to the command line and saved into a txt file. The results and the method used to arrive at the results would be presented to the election commission.  
 
-Election-Audit Results
+##Election-Audit Results
+
 The Python code uses repetition statements, conditional statements and logical operators to print the election results to a command line and also saves them into a text file. 
 Please see below for five election outcomes
 1.	Total Votes: 369,711
@@ -22,14 +26,16 @@ Please see below for five election outcomes
 •	Winner: Diana DeGette
 •	Winning Vote Count: 272,892
 •	Winning Percentage: 73.8%
+
 Please see below snippet from the command line showing the result. 
+
 Please see below snippet from the text file showing the result. The text file can also be accessed here.
 
-Election-Audit Summary
-How to use this Script
+## Election-Audit Summary
+###How to use this Script
 This script relies on data obtained from csv file. The advantage of using a csv file is that the same script can be used on a different election data file that is formatted in the same manner. 
 
-Below are a few examples of how to use this Python Script
+###Below are a few examples of how to use this Python Script
 1.	The current CSV file uses ballot ID, County and Candidate information. This can be expanded to include additional data. For example the voters age, gender and political affiliation data can be collected. The Python script can then be further modified to determine the voter spread across age, gender and political party affiliation under each county.
 2.	
 
