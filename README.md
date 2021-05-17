@@ -33,7 +33,7 @@ Please see below snippet from the command line showing the result.
 
 Please see below snippet from the text file showing the result. The text file can also be accessed here.
 
-![Results in txt file (https://github.com/shayanafzal/Election_Analysis/blob/733c3702c0561ef801f5f9da2a7882bb28e15322/Resources/Result%20in%20text%20file.png)
+![Results in txt file](https://github.com/shayanafzal/Election_Analysis/blob/733c3702c0561ef801f5f9da2a7882bb28e15322/Resources/Result%20in%20text%20file.png)
 
 ## Election-Audit Summary
 ### How to use this Script
