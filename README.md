@@ -38,15 +38,15 @@ Please see below snippet from the text file showing the result.
 The text file can also be accessed [here](https://github.com/shayanafzal/Election_Analysis/blob/444a2e90498617fdfbd85faaa975ebf3e9490d76/Resources/election_analysis.txt).
 
 ## Election-Audit Summary
-### How to use this Script
+
+### Script Usage
 This script relies on data obtained from csv file. The advantage of using a csv file is that the same script can be used on a different election data file that is formatted in the same manner. 
 
+### Suggestions for Modifying the Script
 
+1.	The script can be modified to take validly into account. For example, a person not residing in the county should not be voting in that country. The script can be modified to check the voters address and to ensure that the voters reside in the county where they are voting. The total voter turnout can be compared with the population of voter in the county who are eligible to vote. 
 
-### Below are a few examples of how to use this Python Script
-1.	
-
-3.	The current CSV file uses ballot ID, County and Candidate information. This can be expanded to include additional data. For example the voters age, gender and political affiliation data can be collected. The Python script can then be further modified to determine the voter spread across age, gender and political party affiliation under each county.
+2.	The current CSV file uses ballot ID, County and Candidate information. This can be expanded to include additional data. For example, the voters age, gender and political affiliation data can be collected. The Python script can then be further modified to determine the voter spread across age, gender and political party affiliation under each county.
 
 
 
