@@ -31,9 +31,10 @@ Please see below snippet from the command line showing the result.
 
 ![results in anaconda](https://github.com/shayanafzal/Election_Analysis/blob/98bf54a7713e799857dafdd69fbdabae89007148/Resources/Results%20Displayed%20in%20Anaconda%20Prompt.png)
 
-Please see below snippet from the text file showing the result. The text file can also be accessed here.
+Please see below snippet from the text file showing the result. The text file can also be accessed [here](https://github.com/shayanafzal/Election_Analysis/blob/444a2e90498617fdfbd85faaa975ebf3e9490d76/Resources/election_analysis.txt).
 
 ![Results in txt file](https://github.com/shayanafzal/Election_Analysis/blob/733c3702c0561ef801f5f9da2a7882bb28e15322/Resources/Result%20in%20text%20file.png)
+
 
 ## Election-Audit Summary
 ### How to use this Script
