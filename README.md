@@ -28,6 +28,7 @@ Please see below for five election outcomes
    * Winning Percentage: 73.8%
 
 Please see below snippet from the command line showing the result. 
+
 ![results in anaconda](https://github.com/shayanafzal/Election_Analysis/blob/98bf54a7713e799857dafdd69fbdabae89007148/Resources/Results%20Displayed%20in%20Anaconda%20Prompt.png)
 
 Please see below snippet from the text file showing the result. The text file can also be accessed here.
