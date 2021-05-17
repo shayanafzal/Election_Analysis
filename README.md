@@ -11,7 +11,7 @@ For loop and conditional statement would need to be used to compile the aforemen
 ## Election-Audit Results
 
 The Python code uses repetition statements, conditional statements and logical operators to print the election results to a command line and also saves them into a text file. 
-Please see below for five election outcomes
+Please see below for election outcomes
 1. Total Votes in this congressional election: 369,711
 2. A breakdown of the number of votes and the percentage of total votes for each county in the precinct:
    * Jefferson: 10.5% (38,855)
