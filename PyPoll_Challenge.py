@@ -91,7 +91,7 @@ with open(file_to_save, "w") as txt_file:
 
     txt_file.write(election_results)
 
-    #****************************WORKING HERE***********************************
+    
     
     # 6a: Write a for loop to get the county from the county dictionary.
     for county_name in county_votes_dictionary:
