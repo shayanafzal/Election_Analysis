@@ -14,9 +14,9 @@ The Python code uses repetition statements, conditional statements and logical o
 Please see below for five election outcomes
 1.	Total Votes: 369,711
 2.	County Votes:
-•	Jefferson: 10.5% (38,855)
-•	Denver: 82.8% (306,055)
-•	Arapahoe: 6.7% (24,801)
+* Jefferson: 10.5% (38,855)
+* Denver: 82.8% (306,055)
+* Arapahoe: 6.7% (24,801)
 3.	Largest County Turnover: Denver
 4.	.
 •	Charles Casper Stockham: 23.0% (85,213)
