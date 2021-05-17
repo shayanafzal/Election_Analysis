@@ -44,8 +44,10 @@ This script relies on data obtained from csv file. The advantage of using a csv 
 
 
 ### Below are a few examples of how to use this Python Script
-1.	The current CSV file uses ballot ID, County and Candidate information. This can be expanded to include additional data. For example the voters age, gender and political affiliation data can be collected. The Python script can then be further modified to determine the voter spread across age, gender and political party affiliation under each county.
-2.	
+1.	
+
+3.	The current CSV file uses ballot ID, County and Candidate information. This can be expanded to include additional data. For example the voters age, gender and political affiliation data can be collected. The Python script can then be further modified to determine the voter spread across age, gender and political party affiliation under each county.
+
 
 
 
