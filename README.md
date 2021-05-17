@@ -14,18 +14,18 @@ The Python code uses repetition statements, conditional statements and logical o
 Please see below for five election outcomes
 1.	Total Votes: 369,711
 2.	County Votes:
-    * Jefferson: 10.5% (38,855)
-    * Denver: 82.8% (306,055)
-    * Arapahoe: 6.7% (24,801)
+   * Jefferson: 10.5% (38,855)
+   * Denver: 82.8% (306,055)
+   * Arapahoe: 6.7% (24,801)
 3.	Largest County Turnover: Denver
-4.	.
-•	Charles Casper Stockham: 23.0% (85,213)
-•	Diana DeGette: 73.8% (272,892)
-•	Raymon Anthony Doane: 3.1% (11,606)
+4.	
+   * Charles Casper Stockham: 23.0% (85,213)
+   * Diana DeGette: 73.8% (272,892)
+   * Raymon Anthony Doane: 3.1% (11,606)
 5.	.
-•	Winner: Diana DeGette
-•	Winning Vote Count: 272,892
-•	Winning Percentage: 73.8%
+   * Winner: Diana DeGette
+   * Winning Vote Count: 272,892
+   * Winning Percentage: 73.8%
 
 Please see below snippet from the command line showing the result. 
 
